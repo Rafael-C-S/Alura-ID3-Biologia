@@ -9,5 +9,7 @@ Nesta aula introdutória nos foi apresentada a ferramenta da Google, Colaborator
 
 Tópicos da aula:
 <ul>
-  <li>5</li>
+  <li>Apresentação da ferramenta</li>
+  <li>Importação das bibliotcas:</li>
+  <ul><li>5</li></ul>
 <ul/>
