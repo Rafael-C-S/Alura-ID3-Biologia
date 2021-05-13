@@ -1,5 +1,5 @@
-# Alura-ID3-Biologia
-Análise de dados da cultura de células na área da Biologia
+# Alura-ID3-Farmácia
+Análise de dados de teste de fármacos em cultura de células na área da Biologia
 
 Neste repositório serão inseridos os dados utilizados e as codificações de análise realizadas durante o curso.
 
@@ -9,8 +9,8 @@ Nesta aula introdutória nos foi apresentada a ferramenta da Google, Colaborator
 
 Tópicos da aula:
 <ul>
-  <li>Apresentação da ferramenta</li>
-  <li>Importação das bibliotcas:</li>
+  <li>Apresentação da ferramenta Colaboratory</li>
+  <li>Importação das bibliotecas:</li>
   <ul>
     <li>Pandas</li>
     <li>matplotlib</li>
