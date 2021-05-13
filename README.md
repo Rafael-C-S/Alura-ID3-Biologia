@@ -11,5 +11,12 @@ Tópicos da aula:
 <ul>
   <li>Apresentação da ferramenta</li>
   <li>Importação das bibliotcas:</li>
-  <ul><li>5</li></ul>
+  <ul>
+    <li>Pandas</li>
+    <li>matplotlib</li>
+  </ul>
+  <li>Explanação sobre o escopo de análise: Biologia e teste de Fármacos em células para sua administração/manipulação</li>
+  <li>Utilização de funções das bibliotecas Pandas e matplotlib</li>
+  <li>Métodos iniciais de exploração/análise de dados</li>
+  <li>Exibição de dados em gráficos</li>
 <ul/>
