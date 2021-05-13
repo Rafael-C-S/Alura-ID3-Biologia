@@ -7,4 +7,7 @@ Neste repositório serão inseridos os dados utilizados e as codificações de a
 
 Nesta aula introdutória nos foi apresentada a ferramenta da Google, Colaboratory, onde foi realizada toda a codificação para esta primeira aula de análise de dados.
 
-
+Tópicos da aula:
+<ul>
+  <li>5</li>
+<ul/>
